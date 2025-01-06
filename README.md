@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **assanalibatyrkhan@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ppM3bWMf_dtReVaw2VdAU5N61Nqw1oCO/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1aIrjtDmxFuWmsRxiAvcNbESpgsRMrAoC?usp=sharing)
 
 - ⚡ Fun fact **I have a perfect pitch**
 
