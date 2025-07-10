@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1aIrjtDmxFuWmsRxiAvcNbESpgsRMrAoC?usp=sharing)
 
-- ⚡ Fun fact **I have a perfect pitch**
+- ⚡ Fun fact **I'm a 🇰🇿 18-yo living in 🇭🇰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
