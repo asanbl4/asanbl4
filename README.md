@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Assanali Batyrkhan</h1>
-<h3 align="center">Data Science student @ CityUHK (TOP-60 QS ranking). Passionate about Python, Backend development, Data Analysis, ML</h3>
+<h3 align="center">BSc DS student @ CityUHK (TOP-60 QS ranking). Passionate about Python, Fullstack development using MERN Stack, Data Analysis</h3>
 
 - 📫 How to reach me **assanalibatyrkhan@gmail.com**
 
