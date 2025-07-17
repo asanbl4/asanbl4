@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **assanalibatyrkhan@gmail.com**
 
-[//]: <> (- 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1aIrjtDmxFuWmsRxiAvcNbESpgsRMrAoC?usp=sharing))
+[//]: <> (https://drive.google.com/drive/folders/1aIrjtDmxFuWmsRxiAvcNbESpgsRMrAoC?usp=sharing)
 - 📄 Know about my experiences [CV](https://assanali.vercel.app/Assanali_Batyrkhan_CV_comp_science.pdf)
 
 - ⚡ Fun fact **I'm a 🇰🇿 18-yo living in 🇭🇰**
@@ -45,4 +45,4 @@
 
 
 
-[//]: <> (<a href="" target="_blank" rel="noreferrer"> <img src= "" width="40" height="40"/></a>)
+[//]: <> ()
